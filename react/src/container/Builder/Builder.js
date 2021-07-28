@@ -18,9 +18,6 @@ const Builder = (props) => {
       ...state.content,
     };
     updatedContent[type] = updatedCount;
-    // const priceAddition = INGREDIENTS_PRICES[type];
-    // const oldPrice = state.totalPrice;
-    // const newPrice = oldPrice + priceAddition;
 
     setState({
       content: updatedContent,
