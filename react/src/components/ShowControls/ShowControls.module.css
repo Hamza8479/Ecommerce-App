@@ -9,3 +9,20 @@
     background-color: chocolate;
     margin-top: 100px;
 }
+.ShowControls button{
+    width: 80px;
+    height: 40px;
+    color: black;
+    background-color: rgb(237, 216, 100);
+    cursor: pointer;
+    outline: none;
+}
+.ShowControls button:hover{
+    width: 90px;
+    height: 50px;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(139, 237, 100);
+    cursor: pointer;
+    outline: none;
+}
