@@ -1,1 +1,1 @@
-# Ecommerce-App
+# PRACTICE-REACT
