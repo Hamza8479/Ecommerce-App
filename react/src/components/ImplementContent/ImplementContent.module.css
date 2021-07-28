@@ -1,6 +1,7 @@
 .ImplementContent{
+    overflow: scroll;
     width: 100%;
-    height: 250px;
+    height: 350px;
     margin: auto;
     padding: 10px 0;
 }
